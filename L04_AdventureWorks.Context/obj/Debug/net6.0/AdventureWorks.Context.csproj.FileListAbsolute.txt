@@ -1,0 +1,17 @@
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\bin\Debug\net6.0\AdventureWorks.Context.deps.json
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\bin\Debug\net6.0\AdventureWorks.Context.dll
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\bin\Debug\net6.0\AdventureWorks.Context.pdb
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\bin\Debug\net6.0\AdventureWorks.Models.dll
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\bin\Debug\net6.0\AdventureWorks.Models.pdb
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\obj\Debug\net6.0\AdventureWorks.Context.csproj.AssemblyReference.cache
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\obj\Debug\net6.0\AdventureWorks.Context.GeneratedMSBuildEditorConfig.editorconfig
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\obj\Debug\net6.0\AdventureWorks.Context.AssemblyInfoInputs.cache
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\obj\Debug\net6.0\AdventureWorks.Context.AssemblyInfo.cs
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\obj\Debug\net6.0\AdventureWorks.Context.csproj.CoreCompileInputs.cache
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\obj\Debug\net6.0\AdventureWorks.Context.csproj.CopyComplete
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\obj\Debug\net6.0\AdventureWorks.Context.dll
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\obj\Debug\net6.0\refint\AdventureWorks.Context.dll
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\obj\Debug\net6.0\AdventureWorks.Context.pdb
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\obj\Debug\net6.0\ref\AdventureWorks.Context.dll
